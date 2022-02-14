@@ -3,6 +3,7 @@ This repo includes the data and code for the demo paper with the title, **Climat
 ## Data:
 * The proposed CCMRC data can be found in ```/data/CCMRC/```
 * Tha human evaluation scores are available at ```/data/human-evaluation/```
+* The evaluation guideline is available at ```/data/docs/```
 
 ## Code
 Code will be avialable soon...
